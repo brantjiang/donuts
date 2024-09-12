@@ -1,3 +1,7 @@
+/*
+ * Serial code from https://www.a1k0n.net/2021/01/13/optimizing-donut.html 
+*/
+
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
